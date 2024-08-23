@@ -1,0 +1,14 @@
+CP = int(input("Enter the cost price of the bike: "))
+
+if CP >100000:
+    tax = ((15/100)*CP)
+    print ("Road tax = ", tax)
+
+elif CP >50000 and CP <=100000:
+    tax = ((10/100)*CP)
+    print ("Road tax = ", tax)
+
+elif CP <=50000:
+    tax = ((5/100)*CP)
+    print ("Road tax = ", tax)
+
