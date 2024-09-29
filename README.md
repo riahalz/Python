@@ -1,2 +1,3 @@
 # Python
-Computer Science Syllabus. Code snippets with comments.
+All code snippets with comments
+
