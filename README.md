@@ -13,3 +13,4 @@ Folders in this repository:
 - Tuples
 - Try/Except/Finally Statements
 - Strings
+- Functions
