@@ -1,6 +1,5 @@
 ### Find second largest value in a list ###
 
-
 list = [12,43,21,1]
 
 list.sort()
