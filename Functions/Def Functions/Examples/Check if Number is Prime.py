@@ -1,6 +1,5 @@
 ### Check if Number is Prime ###
 
-
 def is_prime(num):
     # Prime numbers are greater than 1
     if num <= 1:
