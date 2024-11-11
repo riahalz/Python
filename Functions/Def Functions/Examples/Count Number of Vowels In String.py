@@ -1,7 +1,6 @@
 ### Count number of vowels in string ###
  
-
-def checkvowels(str):
+def countvowels(str):
     vowels = ['a', 'e', 'i', 'o', 'u']
     count = 0
     for i in str:
@@ -12,4 +11,4 @@ def checkvowels(str):
     print ("Number of vowels: ", count)
     
 str = input("Input a string: ")
-checkvowels(str)
+countvowels(str)
