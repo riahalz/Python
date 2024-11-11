@@ -1,9 +1,9 @@
 ### Accept and print student name and roll number ###
 
 def studetails():
-    srn = int(input("Enter last 3 digits of your SRN number: "))
+    roll = int(input("Enter the last 3 digits of your roll number: "))
     name = input("Enter your name: ")
-    print ("Student Roll No. = ", srn)
+    print ("Student Roll No. = ", roll)
     print ("Student Name = ", name)
 
 studetails()
