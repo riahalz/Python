@@ -1,4 +1,4 @@
-### Lists - Sorting Values in a List ######
+### sort() - Sort Values in List ######
 
 # Sorting values from least to greatest
 list = [12,43,21,1]
