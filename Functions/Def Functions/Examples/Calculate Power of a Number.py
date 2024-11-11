@@ -1,6 +1,5 @@
 ### Calculate power of a number ###
 
-
 def power(base, exponent):
     return base ** exponent
 
