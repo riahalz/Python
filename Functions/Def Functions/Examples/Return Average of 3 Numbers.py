@@ -1,7 +1,5 @@
 ### Return the average of 3 numbers ###
 
-
-# Calculate average and print result outside function
 def avgnum():
     num1 = int(input("Enter number 1: "))
     num2 = int(input("Enter number 2: "))
