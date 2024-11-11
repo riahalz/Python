@@ -1,4 +1,4 @@
-### Recursive function to find maximum value in List ###
+### Find maximum value in List ###
 
 def maxvalue(list):
     list.sort()
