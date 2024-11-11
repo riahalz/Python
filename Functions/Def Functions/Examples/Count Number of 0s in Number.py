@@ -1,4 +1,4 @@
-### Recursive function to count number of 0s in number ###
+### Count number of 0s in number ###
 
 def countzeros(n):
     if n == 0:
