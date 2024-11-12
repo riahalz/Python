@@ -1,6 +1,6 @@
 ### Functions - Keyword Arguments ###
 
-
+# Function 1
 def cal_area(len, wid):
     area = len * wid
     return area
@@ -8,7 +8,7 @@ def cal_area(len, wid):
 rectangle = cal_area(len = 5, wid = 11)
 print (rectangle) # Output: 55
 
-
+# Function 2
 def stu_info(name, rollno):
     print (name)
     print (rollno)
