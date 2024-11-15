@@ -1,6 +1,5 @@
 ### Lists - Extend/Add elements of a list to end of current list ###
 
-
 List1 = ["carrot", "potato", "lettuce", "beans", "corn"]
 List2 = ["a","b","c","d","e"]
 
