@@ -1,5 +1,4 @@
-### Lists - Count Values ###
-
+### count() - Count Values in List ###
 
 List1 = ["carrot", "potato", "lettuce", "beans", "corn", "capsicum"]
 
