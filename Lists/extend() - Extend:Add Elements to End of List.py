@@ -8,5 +8,5 @@ List2 = ["a","b","c","d","e"]
 
 List1.extend(List2)
 
-print (List1)
+print(List1)
 # Output: ['carrot', 'potato', 'lettuce', 'beans', 'corn', 'a', 'b', 'c', 'd', 'e']
