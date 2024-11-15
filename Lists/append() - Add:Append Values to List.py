@@ -1,19 +1,17 @@
-### Lists - Append Values to a List ###
-
+### append() - Append Values to List ###
 
 List1 = ["carrot", "potato", "lettuce", "beans", "corn"]
 
 # Add/append a value to the list
-
 List1.append("capsicum")
 
-print (List1)
-
+# print updated list
+print (List1) # Output: carrot,potato,lettuce,beans,corn,capsicum
 
 List2 = ["a", "b", "c", "d", "e"]
 
 # Add/append a value to the list
-
 List2.append("f")
 
-print (List2)
+# print updated list
+print (List2) # Output: a,b,c,d,e,f
