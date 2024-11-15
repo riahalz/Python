@@ -1,4 +1,4 @@
-### Make a Copy of a List ###
+### list.copy() - Make a Copy of a List ###
 
 List1 = ["carrot", "potato", "lettuce", "beans", "corn", "capsicum"]
 
