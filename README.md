@@ -1,8 +1,7 @@
 # Python
-All code snippets with comments
+Python programs and examples
 
 Folders in this repository:
-
 - Keywords and Identifiers
 - If/Else/Elif Statements
 - For Loop
@@ -14,3 +13,4 @@ Folders in this repository:
 - Try/Except/Finally Statements
 - Strings
 - Functions
+- Tkinter
