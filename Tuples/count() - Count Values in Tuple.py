@@ -3,8 +3,7 @@
 
 tuple = ["carrot", "potato", "lettuce", "beans", "corn", "capsicum"]
 
-# Count values in the tuple
-print (tuple.count(tuple))
+# Count no. of times elements occur in the tuple
 
 print (tuple.count("potato"))
 
