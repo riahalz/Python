@@ -1,5 +1,5 @@
-### Tuples - Count Values ###
-
+### Count Values in Tuple ###
+## count() - returns number of times a specific value appears in the tuple
 
 tuple = ["carrot", "potato", "lettuce", "beans", "corn", "capsicum"]
 
